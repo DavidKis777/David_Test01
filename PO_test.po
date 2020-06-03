@@ -20,11 +20,15 @@ msgstr "Wir verbinden Entwickler mit Übersetzern weltweit "
 msgid "Welcome back, %1$s! Your last visit was on %2$s"
 msgstr "Willkommen zurück, %1$s! Dein letzter Besuch war am %2$s"
 
-msgid "Ez egy új szegmens, vagy mi a szösz..."
+msgid "Igen, új szegmens"
 msgstr ""
 
-msgid "Gyerekek, ma én nyerni fogok!!!"
+msgid "Keresem a bugot"
 msgstr ""
+
+msgid "CJ issue"
+msgstr ""
+
 
 msgid "%d page read."
 msgid_plural "%d pages read."
