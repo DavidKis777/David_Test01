@@ -23,7 +23,7 @@ msgid "Igen, új szegmens"
 msgstr "Igen, új szegmens"
 
 msgid "Keresem a bugot"
-msgstr "Keresem a bugot"
+msgstr "Nézem, jó e?06:22"
 
 msgid "CJ issue"
 msgstr "CJ issue"
